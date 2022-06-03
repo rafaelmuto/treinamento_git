@@ -1,0 +1,1 @@
+# isso aqui eh o readme desse treinamento
